@@ -6,7 +6,7 @@
 Programador desde 2015, adentrei ao mundo do desenvolvimento web em 2019 adquirindo experiências como Full-Stack. Atualmente atuo mais focado no BackEnd codando em NodeJS, TypeScript, SQL, SequelizeORM e Express, *Dockerizadas* e hospedadas na AWS.
 
 - 🏠  Morando em São Paulo - SP | Brasil
-- 💼  Trabalhando na [Encanto](https://boraencantar.com.br)
+- 💼  Trabalhando na [Escale](https://escale.com.br)
 - 🚀  Desenvolvendo gestor financeiro por chat whatsapp *(projeto privado)*
 - 🌱  Estudando NestJS, Prisma e Python
 
